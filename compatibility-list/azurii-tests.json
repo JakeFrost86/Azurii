@@ -1,0 +1,26 @@
+{
+  "_comment": "Games tested on Azurii (iPhone). These override the Azahar rating. Status: 0 Perfect, 1 Great, 2 Okay, 3 Bad, 4 Intro/Menu, 5 Won't boot.",
+  "tests": [
+    {"id": "00040000000C9B00", "status": 1, "version": "2.50",
+     "en": "Logs in to the Nintendo Network, opens the boxes and saves online. Needs the official system modules (set automatically).",
+     "it": "Accede al Nintendo Network, apre i box e salva online. Servono i moduli di sistema ufficiali (impostati in automatico)."},
+    {"id": "00040000000F4300", "status": 1, "version": "2.49",
+     "en": "Boots and plays normally (it did not boot on Azahar).",
+     "it": "Si avvia e si gioca normalmente (su Azahar non si avviava)."},
+    {"id": "0004000000111B00", "status": 0, "version": "2.48",
+     "en": "Plays perfectly.",
+     "it": "Funziona perfettamente."},
+    {"id": "0004000000126300", "status": 1, "version": "2.50",
+     "en": "Smooth, with very slight stutter. Audio is correct with and without the JIT since 2.50.",
+     "it": "Fluido, con scatti quasi impercettibili. Audio corretto con e senza JIT dalla 2.50."},
+    {"id": "00040000000D6B00", "status": 2, "version": "2.50",
+     "en": "Full speed (30 FPS). With an external controller some button presses are missed (touch controls are fine): under investigation.",
+     "it": "Velocità piena (30 FPS). Con un controller esterno alcune pressioni dei pulsanti vanno perse (i comandi touch funzionano): in analisi."},
+    {"id": "00040000000E6500", "status": 2, "version": "2.50",
+     "en": "Plays with the virtual Skylanders portal and FMVs. Character voices sound robotic with HLE audio.",
+     "it": "Si gioca con il portale Skylanders virtuale e gli FMV. Le voci dei personaggi sono robotiche con l'audio HLE."},
+    {"id": "0004000000131200", "status": 2, "version": "2.50",
+     "en": "Boots and plays with the virtual Skylanders portal (it did not boot on Azahar). Some audio is missing or distorted.",
+     "it": "Si avvia e si gioca con il portale Skylanders virtuale (su Azahar non si avviava). Parte dell'audio manca o è distorta."}
+  ]
+}
