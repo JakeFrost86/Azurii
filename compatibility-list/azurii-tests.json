@@ -23,7 +23,7 @@
      "en": "Boots and plays with the virtual Skylanders portal (it did not boot on Azahar). Some audio is missing or distorted.",
      "it": "Si avvia e si gioca con il portale Skylanders virtuale (su Azahar non si avviava). Parte dell'audio manca o è distorta."},
     {"id": "00040000000A5E00", "status": 1, "version": "2.74",
-     "en": "Some minor glitches. Max 2X Graphics. 3x causes a lot of graphic glitches.",
-     "it": "Qualche glitch minore. Grafica con molte texture 2D. Impostare grafica al massimo a 2X altrimenti appariranno glitch"}
+     "en": "Some minor glitches on new texture loading.",
+     "it": "Lievi rallentamenti minori al caricamento delle texture."}
   ]
 }
