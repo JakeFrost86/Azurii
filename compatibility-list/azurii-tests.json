@@ -1,5 +1,5 @@
 {
-  "_comment": "Games tested on Azurii (iPhone). These override the Azahar rating. Status: 0 Perfect, 1 Great, 2 Okay, 3 Bad, 4 Intro/Menu, 5 Won't boot.",
+  "_comment": "Games tested on Azurii (iPhone). These override the Azahar rating. Status: 0 Perfect, 1 Great, 2 Okay, 3 Bad, 4 Intro/Menu, 5 Won't boot. A test with \"title\" (and optional \"ids\") is a game missing from the Azahar list; \"hidden\" lists title IDs of Azahar games removed from the page. Edited with the Azurii Compat app, which also rebuilds data.json.",
   "tests": [
     {"id": "00040000000C9B00", "status": 1, "version": "2.50",
      "en": "Logs in to the Nintendo Network, opens the boxes and saves online. Needs the official system modules (set automatically).",
@@ -21,6 +21,9 @@
      "it": "Si gioca con il portale Skylanders virtuale e gli FMV. Le voci dei personaggi sono robotiche con l'audio HLE."},
     {"id": "0004000000131200", "status": 2, "version": "2.50",
      "en": "Boots and plays with the virtual Skylanders portal (it did not boot on Azahar). Some audio is missing or distorted.",
-     "it": "Si avvia e si gioca con il portale Skylanders virtuale (su Azahar non si avviava). Parte dell'audio manca o è distorta."}
+     "it": "Si avvia e si gioca con il portale Skylanders virtuale (su Azahar non si avviava). Parte dell'audio manca o è distorta."},
+    {"id": "00040000000A5E00", "status": 1, "version": "2.70",
+     "en": "Some minor glitches \n",
+     "it": "Qualche glitch minore"}
   ]
 }
