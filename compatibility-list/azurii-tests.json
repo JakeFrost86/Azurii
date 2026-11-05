@@ -24,6 +24,9 @@
      "it": "Si avvia e si gioca con il portale Skylanders virtuale (su Azahar non si avviava). Parte dell'audio manca o è distorta."},
     {"id": "00040000000A5E00", "status": 1, "version": "2.74",
      "en": "Some minor glitches on new texture loading.",
-     "it": "Lievi rallentamenti minori al caricamento delle texture."}
+     "it": "Lievi rallentamenti minori al caricamento delle texture."},
+    {"id": "0004000000035E00", "status": 1, "version": "2.74",
+     "en": "No issues. Azurii starts the game even if the 3DS region is different \n",
+     "it": "Nessun problema riscontrato. Azurii avvia il gioco anche se impostato in regione differente"}
   ]
 }
